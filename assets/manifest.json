@@ -1,0 +1,1028 @@
+{
+  "version": "1.0",
+  "total_species": 103,
+  "counts": {
+    "fauna": 76,
+    "flora": 17,
+    "benthic": 10,
+    "environments": 7,
+    "textures": 7
+  },
+  "species": [
+    {
+      "id": "shark",
+      "common_name": "Great white shark",
+      "scientific_name": "Carcharodon carcharias",
+      "category": "Fauna",
+      "image_file": "assets/species/great_white_shark.jpg",
+      "status": "Generated & Integrated",
+      "prompt": "Photorealistic underwater wildlife photograph of a Great White Shark (Carcharodon carcharias): Square 1:1, massive streamlined countershaded body with slate-grey dorsal and white underbelly, five distinct gill slits, black eye, conical snout, swimming through deep sunlit blue ocean with subtle caustics."
+    },
+    {
+      "id": "turtle",
+      "common_name": "Green sea turtle",
+      "scientific_name": "Chelonia mydas",
+      "category": "Fauna",
+      "image_file": "assets/species/green_sea_turtle.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Green Sea Turtle (Chelonia mydas): Square 1:1, hydrodynamic teardrop carapace with radiating amber-brown scutes, powerful paddle front flippers, gliding smoothly above a sunlit shallow reef flat with seagrass."
+    },
+    {
+      "id": "manta",
+      "common_name": "Reef manta ray",
+      "scientific_name": "Mobula alfredi",
+      "category": "Fauna",
+      "image_file": "assets/species/reef_manta_ray.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Reef Manta Ray (Mobula alfredi): Square 1:1, broad diamond-shaped wings gliding effortlessly, velvety black dorsal surface with white shoulder patches, curled cephalic lobes, crystal clear blue water above a coral cleaning station."
+    },
+    {
+      "id": "clown",
+      "common_name": "Ocellaris clownfish",
+      "scientific_name": "Amphiprion ocellaris",
+      "category": "Fauna",
+      "image_file": "assets/species/ocellaris_clownfish.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of an Ocellaris Clownfish (Amphiprion ocellaris): Square 1:1, vibrant orange body with three clean white vertical bands outlined in fine black margins, nestled safely among the undulating tentacles of a sea anemone."
+    },
+    {
+      "id": "barra",
+      "common_name": "Great barracuda",
+      "scientific_name": "Sphyraena barracuda",
+      "category": "Fauna",
+      "image_file": "assets/species/great_barracuda.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Great Barracuda (Sphyraena barracuda): Square 1:1, long torpedo-like silvery body with dark vertical bars and scattered ink spots, pointed jaw filled with razor-sharp fang-like teeth, hovering in clear sunlit water."
+    },
+    {
+      "id": "jelly",
+      "common_name": "Moon jelly",
+      "scientific_name": "Aurelia aurita",
+      "category": "Fauna",
+      "image_file": "assets/species/moon_jelly.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Moon Jelly (Aurelia aurita): Square 1:1, translucent saucer-shaped bell displaying four distinctive violet-pink horseshoe gonads in the center, short delicate fringe tentacles drifting gently in clear azure water."
+    },
+    {
+      "id": "sword",
+      "common_name": "Swordfish",
+      "scientific_name": "Xiphias gladius",
+      "category": "Fauna",
+      "image_file": "assets/species/swordfish.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Swordfish (Xiphias gladius): Square 1:1, powerful metallic bronze-blue pelagic fish with immense flat sword-like bill extending from upper jaw, large dark eye, rigid sickle dorsal fin, cruising through deep offshore blue water."
+    },
+    {
+      "id": "lantern",
+      "common_name": "Lanternfish",
+      "scientific_name": "Myctophidae (family)",
+      "category": "Fauna",
+      "image_file": "assets/species/lanternfish.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Lanternfish (Myctophidae): Square 1:1, small slender mesopelagic fish with large round eyes and rows of luminous green-blue photophores glowing softly along its belly in deep twilight ocean darkness."
+    },
+    {
+      "id": "whale",
+      "common_name": "Sperm whale",
+      "scientific_name": "Physeter macrocephalus",
+      "category": "Fauna",
+      "image_file": "assets/species/sperm_whale.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Sperm Whale (Physeter macrocephalus): Square 1:1, massive corrugated grey-brown head with narrow toothed lower jaw, small triangular fluke, wrinkled skin texture, descending powerfully into deep mesopelagic blue water."
+    },
+    {
+      "id": "squid",
+      "common_name": "Giant squid",
+      "scientific_name": "Architeuthis dux",
+      "category": "Fauna",
+      "image_file": "assets/species/giant_squid.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Giant Squid (Architeuthis dux): Square 1:1, colossal deep-sea cephalopod with massive mantle, dinner-plate sized dark eye, eight muscular arms and two ultra-long feeding tentacles trailing into pitch-black midnight depth."
+    },
+    {
+      "id": "angler",
+      "common_name": "Humpback anglerfish",
+      "scientific_name": "Melanocetus johnsonii",
+      "category": "Fauna",
+      "image_file": "assets/species/humpback_anglerfish.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Humpback Anglerfish (Melanocetus johnsonii): Square 1:1, spherical pitch-black bathypelagic female with gaping translucent needle-toothed jaws and glowing bioluminescent esca bulb dangling above its head in black abyss."
+    },
+    {
+      "id": "viper",
+      "common_name": "Sloane's viperfish",
+      "scientific_name": "Chauliodus sloani",
+      "category": "Fauna",
+      "image_file": "assets/species/sloane_s_viperfish.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of Sloane's Viperfish (Chauliodus sloani): Square 1:1, elongate iridescent silvery-black body with enormous translucent curved fang teeth protruding far beyond jaws, arching through dark deep ocean."
+    },
+    {
+      "id": "isopod",
+      "common_name": "Giant deep-sea isopod",
+      "scientific_name": "Bathynomus giganteus",
+      "category": "Fauna",
+      "image_file": "assets/species/giant_deep_sea_isopod.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Giant Deep-Sea Isopod (Bathynomus giganteus): Square 1:1, heavily armored pale lilac-tan segmented exoskeleton with large triangular reflective compound eyes and articulated walking legs resting on abyssal seabed sediment."
+    },
+    {
+      "id": "snail",
+      "common_name": "Mariana snailfish",
+      "scientific_name": "Pseudoliparis swirei",
+      "category": "Fauna",
+      "image_file": "assets/species/mariana_snailfish.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Mariana Snailfish (Pseudoliparis swirei): Square 1:1, translucent pinkish-white scaleless tadpole-like fish with delicate fluttering pectoral fins hovering gently over fine sediment on the ultra-deep Hadal trench floor."
+    },
+    {
+      "id": "butterfly",
+      "common_name": "Threadfin butterflyfish",
+      "scientific_name": "Chaetodon auriga",
+      "category": "Fauna",
+      "image_file": "assets/species/threadfin_butterflyfish.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Threadfin Butterflyfish (Chaetodon auriga): Square 1:1, pearly-white disc body with dark diagonal chevron stripes, bright yellow posterior, black eye stripe, and trailing dorsal filament near coral."
+    },
+    {
+      "id": "moorish",
+      "common_name": "Moorish idol",
+      "scientific_name": "Zanclus cornutus",
+      "category": "Fauna",
+      "image_file": "assets/species/moorish_idol.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Moorish Idol (Zanclus cornutus): Square 1:1, compressed disc body with bold vertical black, white and yellow bands, tubular snout with orange saddle, and extremely long white dorsal pennant."
+    },
+    {
+      "id": "dolphin",
+      "common_name": "Bottlenose dolphin",
+      "scientific_name": "Tursiops truncatus",
+      "category": "Fauna",
+      "image_file": "assets/species/bottlenose_dolphin.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Bottlenose Dolphin (Tursiops truncatus): Square 1:1, sleek grey cetacean with lighter belly and curved dorsal fin, arched gracefully in sunlit clear tropical ocean with ascending micro-bubbles."
+    },
+    {
+      "id": "octo",
+      "common_name": "Common octopus",
+      "scientific_name": "Octopus vulgaris",
+      "category": "Fauna",
+      "image_file": "assets/species/common_octopus.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Common Octopus (Octopus vulgaris): Square 1:1, mottled ochre and rust-brown skin with fine raised papillae texture, intelligent slit-pupil eye, eight suckered arms curled naturally against a sunlit coral limestone reef."
+    },
+    {
+      "id": "hatchet",
+      "common_name": "Marine hatchetfish",
+      "scientific_name": "Argyropelecus (genus)",
+      "category": "Fauna",
+      "image_file": "assets/species/marine_hatchetfish.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Marine Hatchetfish (Argyropelecus): Square 1:1, mirror-like silver blade body with huge upward-pointing tubular green eyes and counter-illuminating belly photophores in twilight waters."
+    },
+    {
+      "id": "gulper",
+      "common_name": "Pelican eel (gulper eel)",
+      "scientific_name": "Eurypharynx pelecanoides",
+      "category": "Fauna",
+      "image_file": "assets/species/pelican_eel_gulper_eel.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Pelican Eel (Eurypharynx pelecanoides): Square 1:1, jet-black deep-sea eel with an enormous cavernous pouch mouth and long whiplike tail terminating in a tiny red bioluminescent organ."
+    },
+    {
+      "id": "vamp",
+      "common_name": "Vampire squid",
+      "scientific_name": "Vampyroteuthis infernalis",
+      "category": "Fauna",
+      "image_file": "assets/species/vampire_squid.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Vampire Squid (Vampyroteuthis infernalis): Square 1:1, deep red-black gelatinous body, webbed arms with soft cirri, large reflective milky-blue globular eye, glowing photophores hovering in dark oxygen-minimum zone."
+    },
+    {
+      "id": "cuke",
+      "common_name": "Sea pig",
+      "scientific_name": "Scotoplanes globosa",
+      "category": "Fauna",
+      "image_file": "assets/species/sea_pig.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Sea Pig (Scotoplanes globosa): Square 1:1, plump translucent pale-pink deep-sea holothurian walking across fine abyssal sediment on hydraulic tube-feet legs with upper sensory papillae."
+    },
+    {
+      "id": "amph",
+      "common_name": "Hadal amphipod",
+      "scientific_name": "Hirondellea gigas",
+      "category": "Fauna",
+      "image_file": "assets/species/hadal_amphipod.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Hadal Amphipod (Hirondellea gigas): Square 1:1, translucent ivory-pink laterally compressed crustacean with delicate antennae and thoracic appendages swimming over deep trench sediment."
+    },
+    {
+      "id": "tang",
+      "common_name": "Regal blue tang",
+      "scientific_name": "Paracanthurus hepatus",
+      "category": "Fauna",
+      "image_file": "assets/species/regal_blue_tang.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Regal Blue Tang (Paracanthurus hepatus): Square 1:1, vivid royal-blue oval body with bold black palette pattern and bright yellow triangular tail, fluttering among sunlit staghorn corals."
+    },
+    {
+      "id": "moray",
+      "common_name": "Giant moray",
+      "scientific_name": "Gymnothorax javanicus",
+      "category": "Fauna",
+      "image_file": "assets/species/giant_moray.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Giant Moray (Gymnothorax javanicus): Square 1:1, massive brownish-yellow eel with dark leopard blotches, gaping mouth showing sharp needle teeth and pale yellow interior, peering out from a reef cavern."
+    },
+    {
+      "id": "star",
+      "common_name": "Horned sea star",
+      "scientific_name": "Protoreaster nodosus",
+      "category": "Fauna",
+      "image_file": "assets/species/horned_sea_star.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Horned Sea Star (Protoreaster nodosus): Square 1:1, thick cream-orange five-armed sea star covered with prominent conical dark-brown horn tubercles, resting on sunlit shallow lagoon sand."
+    },
+    {
+      "id": "urchin",
+      "common_name": "Long-spined sea urchin",
+      "scientific_name": "Diadema setosum",
+      "category": "Fauna",
+      "image_file": "assets/species/long_spined_sea_urchin.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Long-spined Sea Urchin (Diadema setosum): Square 1:1, spherical black test with dozens of needle-sharp black spines radiating outward and a luminous orange anal ring glowing softly in a coral hollow."
+    },
+    {
+      "id": "djelly",
+      "common_name": "Alarm jellyfish",
+      "scientific_name": "Atolla wyvillei",
+      "category": "Fauna",
+      "image_file": "assets/species/alarm_jellyfish.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of an Alarm Jellyfish (Atolla wyvillei): Square 1:1, deep crimson-scarlet bell with a single hypertrophied tentacle and a pulsing neon-blue bioluminescent outer perimeter ring in pitch-black midnight waters."
+    },
+    {
+      "id": "grenadier",
+      "common_name": "Abyssal grenadier",
+      "scientific_name": "Coryphaenoides armatus",
+      "category": "Fauna",
+      "image_file": "assets/species/abyssal_grenadier.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of an Abyssal Grenadier (Coryphaenoides armatus): Square 1:1, stout brownish-grey head tapering to a long slender rattail, hovering head-down just above the abyssal sediment plain."
+    },
+    {
+      "id": "angel",
+      "common_name": "Emperor angelfish",
+      "scientific_name": "Pomacanthus imperator",
+      "category": "Fauna",
+      "image_file": "assets/species/emperor_angelfish.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of an Emperor Angelfish (Pomacanthus imperator): Square 1:1, magnificent deep disc-shaped body adorned with parallel horizontal electric-blue and yellow stripes and a velvety black eye mask, swimming past vibrant coral."
+    },
+    {
+      "id": "bfly",
+      "common_name": "Teardrop butterflyfish",
+      "scientific_name": "Chaetodon unimaculatus",
+      "category": "Fauna",
+      "image_file": "assets/species/teardrop_butterflyfish.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Teardrop Butterflyfish (Chaetodon unimaculatus): Square 1:1, bright-yellow and white disc body with a bold black teardrop blotch on the upper flank and a vertical black eye bar."
+    },
+    {
+      "id": "parrot",
+      "common_name": "Bumphead parrotfish",
+      "scientific_name": "Bolbometopon muricatum",
+      "category": "Fauna",
+      "image_file": "assets/species/bumphead_parrotfish.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Bumphead Parrotfish (Bolbometopon muricatum): Square 1:1, massive slate-green parrotfish with prominent bulbous forehead bump and exposed white dental beak grazing on coral limestone."
+    },
+    {
+      "id": "goby",
+      "common_name": "Wheeler's shrimp goby",
+      "scientific_name": "Amblyeleotris wheeleri",
+      "category": "Fauna",
+      "image_file": "assets/species/wheeler_s_shrimp_goby.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of Wheeler's Shrimp Goby (Amblyeleotris wheeleri): Square 1:1, slender white goby with broad reddish-brown bars and electric-blue spots standing guard outside a sandy burrow beside a snapping shrimp."
+    },
+    {
+      "id": "tuna",
+      "common_name": "Yellowfin tuna",
+      "scientific_name": "Thunnus albacares",
+      "category": "Fauna",
+      "image_file": "assets/species/yellowfin_tuna.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Yellowfin Tuna (Thunnus albacares): Square 1:1, metallic dark-blue torpedo body with iridescent silver belly, long bright-yellow sickle dorsal and anal fins, cruising at high speed in open blue ocean."
+    },
+    {
+      "id": "anth",
+      "common_name": "Sea goldie",
+      "scientific_name": "Pseudanthias squamipinnis",
+      "category": "Fauna",
+      "image_file": "assets/species/sea_goldie.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Sea Goldie (Pseudanthias squamipinnis): Square 1:1, radiant orange-gold anthias with elongated magenta dorsal spine and purple eye stripe swimming among a sunlit shallow reef school."
+    },
+    {
+      "id": "wshark",
+      "common_name": "Whale shark",
+      "scientific_name": "Rhincodon typus",
+      "category": "Fauna",
+      "image_file": "assets/species/whale_shark.jpg",
+      "status": "Generated & Integrated",
+      "prompt": "Photorealistic underwater photograph of a Whale Shark (Rhincodon typus): Square 1:1, gigantic docile filter-feeding shark with broad flattened head and terminal mouth, dark charcoal skin covered in dense white spots and pale vertical stripes, swimming in sunlit open ocean with remoras."
+    },
+    {
+      "id": "chromis",
+      "common_name": "Blue-green chromis",
+      "scientific_name": "Chromis viridis",
+      "category": "Fauna",
+      "image_file": "assets/species/blue_green_chromis.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Blue-green Chromis (Chromis viridis): Square 1:1, brilliant shimmering apple-green and turquoise damselfish with forked caudal fin hovering in crystal water above branching acropora coral."
+    },
+    {
+      "id": "trev",
+      "common_name": "Giant trevally",
+      "scientific_name": "Caranx ignobilis",
+      "category": "Fauna",
+      "image_file": "assets/species/giant_trevally.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Giant Trevally (Caranx ignobilis): Square 1:1, powerful silvery-grey predatory jack with steep blunt forehead profile and deeply forked tail patrolling a coral drop-off reef."
+    },
+    {
+      "id": "boxf",
+      "common_name": "Yellow boxfish",
+      "scientific_name": "Ostracion cubicus",
+      "category": "Fauna",
+      "image_file": "assets/species/yellow_boxfish.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Yellow Boxfish (Ostracion cubicus): Square 1:1, rigid cubic bright-mustard yellow body dotted with circular black spots and tiny fluttering translucent fins hovering near reef rock."
+    },
+    {
+      "id": "puff",
+      "common_name": "Stars-and-stripes puffer",
+      "scientific_name": "Arothron hispidus",
+      "category": "Fauna",
+      "image_file": "assets/species/stars_and_stripes_puffer.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Stars-and-stripes Puffer (Arothron hispidus): Square 1:1, rounded greenish-grey pufferfish with white stars across its back and parallel white stripes along its belly and snout."
+    },
+    {
+      "id": "lion",
+      "common_name": "Red lionfish",
+      "scientific_name": "Pterois volitans",
+      "category": "Fauna",
+      "image_file": "assets/species/red_lionfish.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Red Lionfish (Pterois volitans): Square 1:1, dramatic fan of venomous banded maroon and white dorsal spines and broad feathery pectoral fins hovering majestically before a coral arch."
+    },
+    {
+      "id": "idol",
+      "common_name": "Longfin bannerfish",
+      "scientific_name": "Heniochus acuminatus",
+      "category": "Fauna",
+      "image_file": "assets/species/longfin_bannerfish.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Longfin Bannerfish (Heniochus acuminatus): Square 1:1, bold black and white diagonal bands, bright yellow caudal fin, and an ultra-long white fourth dorsal spine banner fluttering in current."
+    },
+    {
+      "id": "ytang",
+      "common_name": "Yellow tang",
+      "scientific_name": "Zebrasoma flavescens",
+      "category": "Fauna",
+      "image_file": "assets/species/yellow_tang.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Yellow Tang (Zebrasoma flavescens): Square 1:1, brilliant uniform canary-yellow disc body with white caudal spine scalpel, grazing delicately on reef turf algae."
+    },
+    {
+      "id": "wrasse",
+      "common_name": "Bluestreak cleaner wrasse",
+      "scientific_name": "Labroides dimidiatus",
+      "category": "Fauna",
+      "image_file": "assets/species/bluestreak_cleaner_wrasse.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Bluestreak Cleaner Wrasse (Labroides dimidiatus): Square 1:1, slender electric-blue body with a bold black stripe widening toward the tail, tending to a client fish at a coral cleaning station."
+    },
+    {
+      "id": "mahi",
+      "common_name": "Mahi-mahi",
+      "scientific_name": "Coryphaena hippurus",
+      "category": "Fauna",
+      "image_file": "assets/species/mahi_mahi.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Mahi-mahi (Coryphaena hippurus): Square 1:1, brilliant electric chartreuse, gold and emerald-blue bullhead pelagic gamefish with long continuous dorsal fin bursting through sunlit surface waters."
+    },
+    {
+      "id": "sail",
+      "common_name": "Indo-Pacific sailfish",
+      "scientific_name": "Istiophorus platypterus",
+      "category": "Fauna",
+      "image_file": "assets/species/indo_pacific_sailfish.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of an Indo-Pacific Sailfish (Istiophorus platypterus): Square 1:1, cobalt-blue billfish with immense cobalt-spotted sail-like dorsal fin fully erected, slicing through open sunlit oceanic swells."
+    },
+    {
+      "id": "sardine",
+      "common_name": "Pacific sardine",
+      "scientific_name": "Sardinops sagax",
+      "category": "Fauna",
+      "image_file": "assets/species/pacific_sardine.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Pacific Sardine (Sardinops sagax): Square 1:1, iridescent blue-green back with a row of dark round spots along its silvery reflective flank, swimming in clear sunlit pelagic water."
+    },
+    {
+      "id": "omanta",
+      "common_name": "Oceanic manta ray",
+      "scientific_name": "Mobula birostris",
+      "category": "Fauna",
+      "image_file": "assets/species/oceanic_manta_ray.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of an Oceanic Manta Ray (Mobula birostris): Square 1:1, colossal pelagic manta ray with 6-meter wingspan, jet-black chevron dorsal markings, white T-mark on shoulders, cruising through open blue pelagic swells."
+    },
+    {
+      "id": "fang",
+      "common_name": "Common fangtooth",
+      "scientific_name": "Anoplogaster cornuta",
+      "category": "Fauna",
+      "image_file": "assets/species/common_fangtooth.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Common Fangtooth (Anoplogaster cornuta): Square 1:1, heavily armored pitch-black bathypelagic fish with disproportionate head, cavernous mouth, and massive razor fangs in deep black ocean."
+    },
+    {
+      "id": "swallow",
+      "common_name": "Black swallower",
+      "scientific_name": "Chiasmodon niger",
+      "category": "Fauna",
+      "image_file": "assets/species/black_swallower.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Black Swallower (Chiasmodon niger): Square 1:1, slender brownish-black deep-sea fish with distensible jaws and elastic stomach distended with prey, floating in bathypelagic midnight zone."
+    },
+    {
+      "id": "bristle",
+      "common_name": "Bristlemouth",
+      "scientific_name": "Cyclothone (genus)",
+      "category": "Fauna",
+      "image_file": "assets/species/bristlemouth.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Bristlemouth (Cyclothone): Square 1:1, tiny slender translucent-brown fish with rows of microscopic needle teeth and subtle belly photophores floating in deep twilight depth."
+    },
+    {
+      "id": "shrimp",
+      "common_name": "Banded coral shrimp",
+      "scientific_name": "Stenopus hispidus",
+      "category": "Fauna",
+      "image_file": "assets/species/banded_coral_shrimp.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Banded Coral Shrimp (Stenopus hispidus): Square 1:1, striking candy-cane red and white striped body with long delicate snowy-white antennae and enlarged clawed chelae perched on a shaded reef crevice."
+    },
+    {
+      "id": "btshark",
+      "common_name": "Blacktip reef shark",
+      "scientific_name": "Carcharhinus melanopterus",
+      "category": "Fauna",
+      "image_file": "assets/species/blacktip_reef_shark.jpg",
+      "status": "Generated & Integrated",
+      "prompt": "Photorealistic underwater photograph of a Blacktip Reef Shark (Carcharhinus melanopterus): Square 1:1, bronze-grey streamlined body with prominent jet-black tips on the first dorsal fin and lower caudal lobe, patrolling a shallow sunlit turquoise coral reef."
+    },
+    {
+      "id": "wtshark",
+      "common_name": "Whitetip reef shark",
+      "scientific_name": "Triaenodon obesus",
+      "category": "Fauna",
+      "image_file": "assets/species/whitetip_reef_shark.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Whitetip Reef Shark (Triaenodon obesus): Square 1:1, slender grey-brown body with blunt snout and vivid white tips on the first dorsal and upper caudal fins, resting calmly on sandy substrate under a coral ledge."
+    },
+    {
+      "id": "grshark",
+      "common_name": "Grey reef shark",
+      "scientific_name": "Carcharhinus amblyrhynchos",
+      "category": "Fauna",
+      "image_file": "assets/species/grey_reef_shark.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Grey Reef Shark (Carcharhinus amblyrhynchos): Square 1:1, robust hydrodynamic bronze-grey shark with prominent black trailing margin on the entire caudal fin, cruising confidently along a steep sunlit reef drop-off wall."
+    },
+    {
+      "id": "nshark",
+      "common_name": "Nurse shark",
+      "scientific_name": "Ginglymostoma cirratum",
+      "category": "Fauna",
+      "image_file": "assets/species/nurse_shark.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Nurse Shark (Ginglymostoma cirratum): Square 1:1, smooth yellowish-brown skin, blunt rounded head with two fleshy sensory barbels hanging from upper lip, resting peacefully on sandy seafloor near reef rocks."
+    },
+    {
+      "id": "tshark",
+      "common_name": "Tiger shark",
+      "scientific_name": "Galeocerdo cuvier",
+      "category": "Fauna",
+      "image_file": "assets/species/tiger_shark.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Tiger Shark (Galeocerdo cuvier): Square 1:1, large powerful predator with broad flat blunt snout and distinctive dark vertical tiger stripes across its grey-blue flanks, patrolling in clear open water."
+    },
+    {
+      "id": "hammer",
+      "common_name": "Great hammerhead shark",
+      "scientific_name": "Sphyrna mokarran",
+      "category": "Fauna",
+      "image_file": "assets/species/great_hammerhead_shark.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Great Hammerhead Shark (Sphyrna mokarran): Square 1:1, striking wide T-shaped cephalofoil hammer head with eyes at outer tips, extraordinarily tall sickle dorsal fin, cruising gracefully over a sunlit sandy bottom."
+    },
+    {
+      "id": "bshark",
+      "common_name": "Bull shark",
+      "scientific_name": "Carcharhinus leucas",
+      "category": "Fauna",
+      "image_file": "assets/species/bull_shark.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Bull Shark (Carcharhinus leucas): Square 1:1, stout heavily built shark with short broad blunt snout, small dark eyes, and thick grey muscular body cruising purposefully in turbid coastal water."
+    },
+    {
+      "id": "owtshark",
+      "common_name": "Oceanic whitetip shark",
+      "scientific_name": "Carcharhinus longimanus",
+      "category": "Fauna",
+      "image_file": "assets/species/oceanic_whitetip_shark.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of an Oceanic Whitetip Shark (Carcharhinus longimanus): Square 1:1, open-ocean bronze shark with paddle-like rounded pectoral fins and dorsal fin boldly mottled with chalky white tips, pilot fish escorting in deep blue sea."
+    },
+    {
+      "id": "gchromis",
+      "common_name": "Bicolour chromis",
+      "scientific_name": "Chromis margaritifer",
+      "category": "Fauna",
+      "image_file": "assets/species/bicolour_chromis.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Bicolour Chromis (Chromis margaritifer): Square 1:1, sharp bicolour contrast with dark chocolate-brown front half and snow-white rear half and tail, hovering above staghorn coral."
+    },
+    {
+      "id": "sergeant",
+      "common_name": "Sergeant major",
+      "scientific_name": "Abudefduf vaigiensis",
+      "category": "Fauna",
+      "image_file": "assets/species/sergeant_major.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Sergeant Major (Abudefduf vaigiensis): Square 1:1, oval silvery-yellow damselfish with five prominent vertical black bars, swimming actively in shallow sunlit surge."
+    },
+    {
+      "id": "damsel",
+      "common_name": "Jewel damselfish",
+      "scientific_name": "Plectroglyphidodon lacrymatus",
+      "category": "Fauna",
+      "image_file": "assets/species/jewel_damselfish.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Jewel Damselfish (Plectroglyphidodon lacrymatus): Square 1:1, chocolate-brown body studded with dazzling bright turquoise jewel-like spots and pale tail, defending its algal reef territory."
+    },
+    {
+      "id": "cardinal",
+      "common_name": "Banggai cardinalfish",
+      "scientific_name": "Pterapogon kauderni",
+      "category": "Fauna",
+      "image_file": "assets/species/banggai_cardinalfish.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Banggai Cardinalfish (Pterapogon kauderni): Square 1:1, elegant high-bodied silver fish with three bold black vertical bars, white pearls on fins, and long tasseled fin rays among sea urchin spines."
+    },
+    {
+      "id": "surgeon",
+      "common_name": "Striped surgeonfish",
+      "scientific_name": "Acanthurus lineatus",
+      "category": "Fauna",
+      "image_file": "assets/species/striped_surgeonfish.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Striped Surgeonfish (Acanthurus lineatus): Square 1:1, brilliant longitudinal blue, yellow and black stripes with a blue belly and sharp tail scalpel, grazing on exposed reef crest."
+    },
+    {
+      "id": "trigger",
+      "common_name": "Titan triggerfish",
+      "scientific_name": "Balistoides viridescens",
+      "category": "Fauna",
+      "image_file": "assets/species/titan_triggerfish.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Titan Triggerfish (Balistoides viridescens): Square 1:1, robust heavily scaled triggerfish with dark mustache marking, prominent teeth, and yellow fins with black margins over coral rubble."
+    },
+    {
+      "id": "seahorse",
+      "common_name": "Lined seahorse",
+      "scientific_name": "Hippocampus erectus",
+      "category": "Fauna",
+      "image_file": "assets/species/lined_seahorse.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Lined Seahorse (Hippocampus erectus): Square 1:1, upright mottled brown and gold seahorse with curled prehensile tail anchored to a slender seagrass stem in clear sunlit water."
+    },
+    {
+      "id": "pipefish",
+      "common_name": "Ringed pipefish",
+      "scientific_name": "Doryrhamphus dactyliophorus",
+      "category": "Fauna",
+      "image_file": "assets/species/ringed_pipefish.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Ringed Pipefish (Doryrhamphus dactyliophorus): Square 1:1, long needle-like body ringed with alternating cream and dark-chocolate bands and an oval red flag tail swimming under a coral ledge."
+    },
+    {
+      "id": "cuttle",
+      "common_name": "Broadclub cuttlefish",
+      "scientific_name": "Sepia latimanus",
+      "category": "Fauna",
+      "image_file": "assets/species/broadclub_cuttlefish.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Broadclub Cuttlefish (Sepia latimanus): Square 1:1, broad flattened mantle displaying pulsing iridescent zebra ripples, undulating skirt fin, intelligent W-shaped pupil eye hovering above branching coral."
+    },
+    {
+      "id": "hawksbill",
+      "common_name": "Hawksbill sea turtle",
+      "scientific_name": "Eretmochelys imbricata",
+      "category": "Fauna",
+      "image_file": "assets/species/hawksbill_sea_turtle.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Hawksbill Sea Turtle (Eretmochelys imbricata): Square 1:1, exquisite amber-tortoiseshell carapace with overlapping serrated marginal scutes, narrow pointed beak foraging on sponges along a coral wall."
+    },
+    {
+      "id": "eagleray",
+      "common_name": "Spotted eagle ray",
+      "scientific_name": "Aetobatus narinari",
+      "category": "Fauna",
+      "image_file": "assets/species/spotted_eagle_ray.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Spotted Eagle Ray (Aetobatus narinari): Square 1:1, deep ink-blue angular wings densely patterned with crisp white circular spots, duckbill snout, long whip-like tail gliding effortlessly in open azure water."
+    },
+    {
+      "id": "stingray",
+      "common_name": "Blue-spotted stingray",
+      "scientific_name": "Taeniura lymma",
+      "category": "Fauna",
+      "image_file": "assets/species/blue_spotted_stingray.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Blue-spotted Stingray (Taeniura lymma): Square 1:1, oval green-olive disc dotted with brilliant neon-blue spots, blue lateral stripes on tail, resting partially buried in soft golden reef sand."
+    },
+    {
+      "id": "rsquid",
+      "common_name": "Caribbean reef squid",
+      "scientific_name": "Sepioteuthis sepioidea",
+      "category": "Fauna",
+      "image_file": "assets/species/caribbean_reef_squid.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Caribbean Reef Squid (Sepioteuthis sepioidea): Square 1:1, translucent torpedo mantle with shimmering turquoise-gold chromatophore specks and undulating undulating lateral fins hovering in sunlit shallows."
+    },
+    {
+      "id": "nudi",
+      "common_name": "Spanish dancer nudibranch",
+      "scientific_name": "Hexabranchus sanguineus",
+      "category": "Fauna",
+      "image_file": "assets/species/spanish_dancer_nudibranch.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Spanish Dancer Nudibranch (Hexabranchus sanguineus): Square 1:1, magnificent large bright-scarlet sea slug with ruffled white mantle borders swimming through water with undulating rhythmic waves."
+    },
+    {
+      "id": "lobster",
+      "common_name": "Spiny lobster",
+      "scientific_name": "Panulirus argus",
+      "category": "Fauna",
+      "image_file": "assets/species/spiny_lobster.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Caribbean Spiny Lobster (Panulirus argus): Square 1:1, mottled green-brown carapace with yellow spots, long heavy spiny whip antennae protruding from a limestone coral reef ledge."
+    },
+    {
+      "id": "crab",
+      "common_name": "Reef spider crab",
+      "scientific_name": "Mithrax spinosissimus",
+      "category": "Fauna",
+      "image_file": "assets/species/reef_spider_crab.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Reef Spider Crab (Mithrax spinosissimus): Square 1:1, massive reddish-brown spiny carapace with long spindly hairy legs and blunt claws clinging to a shaded coral drop-off overhang."
+    },
+    {
+      "id": "fl_halophila",
+      "common_name": "Spoon seagrass",
+      "scientific_name": "Halophila ovalis",
+      "category": "Flora",
+      "image_file": "assets/species/spoon_seagrass.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of Spoon Seagrass (Halophila ovalis): Square 1:1, delicate paired oval leaves on creeping rhizomes spreading across soft silt and coral mud in crystal-clear shallow sunlit water."
+    },
+    {
+      "id": "fl_enhalus",
+      "common_name": "Tropical eelgrass",
+      "scientific_name": "Enhalus acoroides",
+      "category": "Flora",
+      "image_file": "assets/species/tropical_eelgrass.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of Tropical Eelgrass (Enhalus acoroides): Square 1:1, immense coarse dark-green ribbon blades up to 1 meter tall rooted in carbonate reef sediment with fibrous rhizomes in sunlit lagoon."
+    },
+    {
+      "id": "fl_cymodocea",
+      "common_name": "Serrated seagrass",
+      "scientific_name": "Cymodocea serrulata",
+      "category": "Flora",
+      "image_file": "assets/species/serrated_seagrass.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of Serrated Seagrass (Cymodocea serrulata): Square 1:1, dense carpet of linear strap leaves with distinctly serrated apical tips, filtering sunlight in a shallow tropical meadow."
+    },
+    {
+      "id": "fl_thalassia",
+      "common_name": "Turtle grass",
+      "scientific_name": "Thalassia testudinum",
+      "category": "Flora",
+      "image_file": "assets/species/turtle_grass.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of Turtle Grass (Thalassia testudinum): Square 1:1, lush emerald-green ribbon blades rooted in fine white carbonate sand, sunlight caustics dancing across the shallow tropical lagoon meadow."
+    },
+    {
+      "id": "fl_syringodium",
+      "common_name": "Manatee grass",
+      "scientific_name": "Syringodium filiforme",
+      "category": "Flora",
+      "image_file": "assets/species/manatee_grass.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of Manatee Grass (Syringodium filiforme): Square 1:1, erect cylindrical pencil-like green leaves swaying gracefully in ocean surge over calcareous sand."
+    },
+    {
+      "id": "fl_halodule",
+      "common_name": "Shoal grass",
+      "scientific_name": "Halodule uninervis",
+      "category": "Flora",
+      "image_file": "assets/species/shoal_grass.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of Shoal Grass (Halodule uninervis): Square 1:1, narrow bright-green pioneer grass blades with three small apical teeth colonizing a sunlit tropical sandbar."
+    },
+    {
+      "id": "fl_macrocystis",
+      "common_name": "Giant kelp",
+      "scientific_name": "Macrocystis pyrifera",
+      "category": "Flora",
+      "image_file": "assets/species/giant_kelp.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of Giant Kelp (Macrocystis pyrifera): Square 1:1, towering golden-amber stipes rising toward the ocean surface with buoyant oval pneumatocysts and long corrugated flowing blades swaying in sunlit green-blue temperate water."
+    },
+    {
+      "id": "fl_nereocystis",
+      "common_name": "Bull kelp",
+      "scientific_name": "Nereocystis luetkeana",
+      "category": "Flora",
+      "image_file": "assets/species/bull_kelp.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of Bull Kelp (Nereocystis luetkeana): Square 1:1, massive flexible hollow stipe terminating in a large spherical gas bulb float with dozens of long golden-brown ribbon fronds fanning out at the ocean surface."
+    },
+    {
+      "id": "fl_sargassum",
+      "common_name": "Sargassum weed",
+      "scientific_name": "Sargassum polycystum",
+      "category": "Flora",
+      "image_file": "assets/species/sargassum_weed.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of Sargassum Weed (Sargassum polycystum): Square 1:1, tough flexible golden-olive zigzag central axis bearing serrated leaves and tiny spherical berry-like gas vesicles attached to reef rock."
+    },
+    {
+      "id": "fl_padina",
+      "common_name": "Peacock's tail alga",
+      "scientific_name": "Padina sanctae-crucis",
+      "category": "Flora",
+      "image_file": "assets/species/peacock_s_tail_alga.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of Peacock's Tail Alga (Padina sanctae-crucis): Square 1:1, beautiful concentric fan-shaped cups banded with chalky white calcified stripes and golden-olive rings anchored to sunlit reef limestone."
+    },
+    {
+      "id": "fl_halimeda",
+      "common_name": "Segmented cactus alga",
+      "scientific_name": "Halimeda opuntia",
+      "category": "Flora",
+      "image_file": "assets/species/segmented_cactus_alga.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of Segmented Cactus Alga (Halimeda opuntia): Square 1:1, dense sprawling cluster of calcified green coin-shaped jointed pads growing in a sunny coral crevice."
+    },
+    {
+      "id": "fl_ulva",
+      "common_name": "Sea lettuce",
+      "scientific_name": "Ulva lactuca",
+      "category": "Flora",
+      "image_file": "assets/species/sea_lettuce.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of Sea Lettuce (Ulva lactuca): Square 1:1, translucent ruffled emerald-green undulating sheets attached to shallow reef rock, backlit by shimmering sunlight."
+    },
+    {
+      "id": "fl_caulerpa",
+      "common_name": "Sea grape alga",
+      "scientific_name": "Caulerpa lentillifera",
+      "category": "Flora",
+      "image_file": "assets/species/sea_grape_alga.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of Sea Grape Alga (Caulerpa lentillifera): Square 1:1, creeping green runner with upright clusters of succulent spherical caviar-like green pearls glowing in clear lagoon water."
+    },
+    {
+      "id": "fl_acetabularia",
+      "common_name": "Mermaid's wine glass",
+      "scientific_name": "Acetabularia crenulata",
+      "category": "Flora",
+      "image_file": "assets/species/mermaid_s_wine_glass.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of Mermaid's Wine Glass (Acetabularia crenulata): Square 1:1, delicate miniature white-green calcified parasol cups atop slender stalks growing in a shallow tropical tidepool."
+    },
+    {
+      "id": "fl_corallina",
+      "common_name": "Branching coralline alga",
+      "scientific_name": "Corallina officinalis",
+      "category": "Flora",
+      "image_file": "assets/species/branching_coralline_alga.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of Branching Coralline Alga (Corallina officinalis): Square 1:1, intricate articulated calcified branching fronds in delicate rose-pink and magenta anchored to hard wave-swept rock."
+    },
+    {
+      "id": "fl_gracilaria",
+      "common_name": "Red ribbon alga",
+      "scientific_name": "Gracilaria cornea",
+      "category": "Flora",
+      "image_file": "assets/species/red_ribbon_alga.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of Red Ribbon Alga (Gracilaria cornea): Square 1:1, fleshy cylindrical branching fronds in deep rich burgundy and crimson-maroon swaying in clear coastal water."
+    },
+    {
+      "id": "fl_eucheuma",
+      "common_name": "Spiny red seaweed",
+      "scientific_name": "Eucheuma denticulatum",
+      "category": "Flora",
+      "image_file": "assets/species/spiny_red_seaweed.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of Spiny Red Seaweed (Eucheuma denticulatum): Square 1:1, robust cartilaginous amber-red branches covered with conical blunt tubercles and spines anchored to shallow coral crest."
+    },
+    {
+      "id": "bn_brain",
+      "common_name": "Brain coral",
+      "scientific_name": "Diploria labyrinthiformis",
+      "category": "Benthic",
+      "image_file": "assets/species/brain_coral.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of Brain Coral (Diploria labyrinthiformis): Square 1:1, massive hemispherical calcified dome with deep winding meandrine cerebral grooves and golden-tan living polyps sunlit in clear shallow water."
+    },
+    {
+      "id": "bn_staghorn",
+      "common_name": "Staghorn coral",
+      "scientific_name": "Acropora cervicornis",
+      "category": "Benthic",
+      "image_file": "assets/species/staghorn_coral.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of Staghorn Coral (Acropora cervicornis): Square 1:1, intricate branching antlers in warm golden-amber with pale growing tips forming a dense three-dimensional thicket on a shallow tropical reef."
+    },
+    {
+      "id": "bn_table",
+      "common_name": "Table coral",
+      "scientific_name": "Acropora cytherea",
+      "category": "Benthic",
+      "image_file": "assets/species/table_coral.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of Table Coral (Acropora cytherea): Square 1:1, immense horizontal flat circular platform of fine coral branches perched atop a sturdy central stalk in crystal-clear sunlit water."
+    },
+    {
+      "id": "bn_boulder",
+      "common_name": "Boulder star coral",
+      "scientific_name": "Porites lobata",
+      "category": "Benthic",
+      "image_file": "assets/species/boulder_star_coral.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of Boulder Star Coral (Porites lobata): Square 1:1, colossal massive rounded limestone dome encrusted with thousands of tiny golden-olive polyp corallites in shallow tropical reef."
+    },
+    {
+      "id": "bn_soft",
+      "common_name": "Carnation soft coral",
+      "scientific_name": "Dendronephthya (genus)",
+      "category": "Benthic",
+      "image_file": "assets/species/carnation_soft_coral.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of Carnation Soft Coral (Dendronephthya): Square 1:1, translucent branching tree coral in vivid magenta and white with inflated water-filled branches and spicule bundles glowing in shaded current."
+    },
+    {
+      "id": "bn_seafan",
+      "common_name": "Gorgonian sea fan",
+      "scientific_name": "Gorgonia ventalina",
+      "category": "Benthic",
+      "image_file": "assets/species/gorgonian_sea_fan.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Gorgonian Sea Fan (Gorgonia ventalina): Square 1:1, delicate planar mesh fan in vibrant purple and golden-ochre oriented perpendicular to ocean tidal current."
+    },
+    {
+      "id": "bn_seawhip",
+      "common_name": "Red sea whip",
+      "scientific_name": "Ellisella (genus)",
+      "category": "Benthic",
+      "image_file": "assets/species/red_sea_whip.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Red Sea Whip (Ellisella): Square 1:1, long slender flexible scarlet-red whiplike branches arching gracefully from a deep coral wall into the passing blue current."
+    },
+    {
+      "id": "bn_barrel",
+      "common_name": "Giant barrel sponge",
+      "scientific_name": "Xestospongia muta",
+      "category": "Benthic",
+      "image_file": "assets/species/giant_barrel_sponge.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Giant Barrel Sponge (Xestospongia muta): Square 1:1, colossal reddish-brown volcanic barrel sponge with deeply ridged corrugated exterior and cavernous central osculum on deep reef slope."
+    },
+    {
+      "id": "bn_chimney",
+      "common_name": "Chimney sponge",
+      "scientific_name": "Aplysina archeri",
+      "category": "Benthic",
+      "image_file": "assets/species/chimney_sponge.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Chimney Sponge (Aplysina archeri): Square 1:1, cluster of tall hollow cylindrical tubes in soft lavender-grey rising from a coral ledge with open apical vents."
+    },
+    {
+      "id": "bn_anemone",
+      "common_name": "Magnificent sea anemone",
+      "scientific_name": "Heteractis magnifica",
+      "category": "Benthic",
+      "image_file": "assets/species/magnificent_sea_anemone.jpg",
+      "status": "Pending Generation",
+      "prompt": "Photorealistic underwater photograph of a Magnificent Sea Anemone (Heteractis magnifica): Square 1:1, massive bright-purple fleshy column crowned with hundreds of finger-like chartreuse tentacles waving softly in sunlit reef surge."
+    }
+  ],
+  "environments": [
+    {
+      "id": "env_coral_reef",
+      "name": "Tropical Coral Reef",
+      "file": "assets/environments/tropical_coral_reef.jpg",
+      "status": "Pending Generation"
+    },
+    {
+      "id": "env_kelp_forest",
+      "name": "Dense Kelp Forest",
+      "file": "assets/environments/dense_kelp_forest.jpg",
+      "status": "Pending Generation"
+    },
+    {
+      "id": "env_open_ocean",
+      "name": "Open Pelagic Ocean",
+      "file": "assets/environments/open_pelagic_ocean.jpg",
+      "status": "Pending Generation"
+    },
+    {
+      "id": "env_twilight_zone",
+      "name": "Twilight Mesopelagic Zone",
+      "file": "assets/environments/twilight_mesopelagic_zone.jpg",
+      "status": "Pending Generation"
+    },
+    {
+      "id": "env_midnight_zone",
+      "name": "Midnight Bathypelagic Zone",
+      "file": "assets/environments/midnight_bathypelagic_zone.jpg",
+      "status": "Pending Generation"
+    },
+    {
+      "id": "env_abyssal_plain",
+      "name": "Abyssal Plain",
+      "file": "assets/environments/abyssal_plain.jpg",
+      "status": "Pending Generation"
+    },
+    {
+      "id": "env_hadal_trench",
+      "name": "Hadal Trench",
+      "file": "assets/environments/hadal_trench.jpg",
+      "status": "Pending Generation"
+    }
+  ],
+  "textures": [
+    {
+      "id": "tex_sand",
+      "name": "Tropical Sand",
+      "file": "assets/textures/tropical_sand.jpg",
+      "status": "Pending Generation"
+    },
+    {
+      "id": "tex_beach_sand",
+      "name": "Wet Beach Sand",
+      "file": "assets/textures/wet_beach_sand.jpg",
+      "status": "Pending Generation"
+    },
+    {
+      "id": "tex_sediment",
+      "name": "Underwater Sediment",
+      "file": "assets/textures/underwater_sediment.jpg",
+      "status": "Pending Generation"
+    },
+    {
+      "id": "tex_reef_rock",
+      "name": "Natural Reef Rock",
+      "file": "assets/textures/natural_reef_rock.jpg",
+      "status": "Pending Generation"
+    },
+    {
+      "id": "tex_coral",
+      "name": "Coral Surface",
+      "file": "assets/textures/coral_surface.jpg",
+      "status": "Pending Generation"
+    },
+    {
+      "id": "tex_kelp",
+      "name": "Kelp Surface",
+      "file": "assets/textures/kelp_surface.jpg",
+      "status": "Pending Generation"
+    },
+    {
+      "id": "tex_seagrass",
+      "name": "Seagrass Surface",
+      "file": "assets/textures/seagrass_surface.jpg",
+      "status": "Pending Generation"
+    }
+  ]
+}
